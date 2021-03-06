@@ -1,0 +1,50 @@
+.navbar{
+    width: auto;
+    height: 50px;
+}
+.nav-list{
+    background-color: crimson;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    padding-right: 200px;
+
+}
+.nav-list li{
+
+    text-emphasis-color: white;
+    padding-inline: 50px;
+    padding-top: 10px;
+   
+
+}
+.nav-list li a{
+   color:white;
+   font-size: larger;
+
+}
+.nav-list li a:hover{
+    color:cyan;
+}
+
+.a{
+    width: 500px;
+    height: auto;
+    border: white;
+}
+.b{
+    width: 500px;
+    height: auto;
+    border: white;
+}
+.c{
+    width: 500px;
+    height: auto;
+    border: white;
+}
+
+
+.body{
+    background-color: gray;
+    background-size: contain;
+}
